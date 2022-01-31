@@ -17,7 +17,7 @@ body {
 .form-registrar {
     width: 40%;
     /*background: #24303c;*/
-    background: linear-gradient(to right,rgb(241, 170, 15), rgb(180, 155, 9), rgb(226, 233, 133));
+    background: linear-gradient(to right,rgb(238, 89, 139), rgb(233, 134, 172), rgb(238, 89, 139));
     padding: 30px;
     margin: auto;
     margin-top: 100px;
